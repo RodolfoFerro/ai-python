@@ -28,7 +28,10 @@ Los siguientes comandos te ayudarán a completar la instalación de dependencias
     > conda deactivate
     > ```
 
-4. ¡Listo! Puedes comenzar a trabajar con Jupyter.
+4. ¡Listo! Puedes comenzar a trabajar con Jupyter:
+    ```bash
+    jupyter lab
+    ```
 
 #### Extras
 
