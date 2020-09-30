@@ -2,7 +2,15 @@
 
 Taller de AI con Python compartido para la comunidad de AI Gaming LATAM.
 
-Nota, puedes ejecutar el código directamente desde Google Colab dando click [**aquí**](https://colab.research.google.com/github/RodolfoFerro/ai-python/blob/master/AI_Python.ipynb).
+**Nota:** Puedes ejecutar el código directamente desde Google Colab dando click al botón a continuación:
+
+<center>
+    <a href="https://colab.research.google.com/github/RodolfoFerro/ai-python/blob/master/AI_Python.ipynb" target="_blank">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" width="200px">
+    </a>
+</center>
+
+Si vas a instalar las dependencias en tu máquina, puedes seguir las instrucciones de la siguiente sección.
 
 
 ## Instalación
@@ -52,6 +60,7 @@ Los siguientes comandos te ayudarán a completar la instalación de dependencias
     jupyter labextension install jupyterlab-plotly@4.8.2
     jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.8.2
     ```
+
 
 ## Conjuto de datos
 
