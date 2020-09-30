@@ -2,6 +2,8 @@
 
 Taller de AI con Python compartido para la comunidad de AI Gaming LATAM.
 
+Nota, puedes ejecutar el código directamente desde Google Colab dando click [**aquí**](https://colab.research.google.com/github/RodolfoFerro/ai-python/blob/master/AI_Python.ipynb).
+
 
 ## Instalación
 
@@ -50,3 +52,7 @@ Los siguientes comandos te ayudarán a completar la instalación de dependencias
     jupyter labextension install jupyterlab-plotly@4.8.2
     jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.8.2
     ```
+
+## Conjuto de datos
+
+Los datos pueden ser descargados desde acá y es un conjunto con dos tipos: [https://nasadata.blob.core.windows.net/nasarocks/Data.zip](https://nasadata.blob.core.windows.net/nasarocks/Data.zip)
